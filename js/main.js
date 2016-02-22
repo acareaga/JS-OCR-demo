@@ -1,9 +1,7 @@
 (function () {
     var video = document.querySelector('video');
-
     var pictureWidth = 640;
     var pictureHeight = 360;
-
     var fxCanvas = null;
     var texture = null;
 
